@@ -1493,14 +1493,14 @@ h3 {
 @media (max-width: 767px) {
   /* line 8, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_slider.scss */
   .slider_area .single_slider {
-    height: 500px;
+    height: 1100px;
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 8, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_slider.scss */
   .slider_area .single_slider {
-    height: 700px;
+    height: 1100px;
   }
 }
 
@@ -2886,6 +2886,7 @@ h3 {
 .reson_area .single_reson .help_content {
   background: #fff;
   position: absolute;
+  height: 370px;
   bottom: 0;
   right: 0;
   -webkit-border-radius: 7px;
@@ -2894,7 +2895,7 @@ h3 {
   -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
   -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
-  padding: 47px 40px 33px 40px;
+  padding: 35px 40px 33px 40px;
   left: 46px;
 }
 
@@ -3025,8 +3026,8 @@ h3 {
 /* line 45, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_latest_activites.scss */
 .latest_activites_area .activites_info {
   padding-right: 156px;
-  padding-top: 240px;
-  padding-bottom: 226px;
+  padding-top: 20px;
+  padding-bottom: 26px;
 }
 
 @media (max-width: 767px) {
